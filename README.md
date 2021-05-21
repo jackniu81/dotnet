@@ -1,2 +1,3 @@
 # dotnet
-.NET all in one repository
+.NET 5 all in one repository
+
